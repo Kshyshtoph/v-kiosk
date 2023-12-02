@@ -5,3 +5,4 @@ steps:
   automapSubstitutions: true
 images:
 - "europe-west1-docker.pkg.dev/$PROJECT_ID/v-kiosk/v-kiosk"
+
